@@ -81,5 +81,8 @@ You can design your own reinforcement learning through  modifying `Calculate` cl
 
 Also, the network structure could be modified in `Net` class (e.g., `PPOMujocoNormalShareNet`) which mainly utilized to devise and initialize network structure, output what you want (e.g., state-value of a state, an action you want take and so on).
 
-## Results
+## papers
+https://arxiv.org/abs/2301.10919
+https://arxiv.org/abs/2301.10920
+
 
